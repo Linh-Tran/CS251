@@ -1,0 +1,51 @@
+abstract Game Object (abstract don't need implement all)
+
+tree these are game object, inherited from object
+
+concrete Ship
+		 Laser
+		 Alien
+		 Missles
+		 Shooter
+
+interface Shooter
+interface Object 2D
+______________________________________
+Game Object
+is a    is a 
+|       |
+Ship, Alien
+|        |
+has a   has a
+Laser, Missles
+
+laser and missles implements shooter
+____________________________________
+  Game        Object
+   |   |   |      |
+ship alien laser missles
+ ship and alien implements shooter
+_______________________________________
+  
+7 methods implements if make indiv then (28 methods)
+  game         Object
+    |             |
+  space craft    shootable 
+  |       |        |    |
+  ship  aliean   laser  missle
+    |      |        |      |
+  space craft implements shooter
+
+  two methods that have same thing than add to the methods before it
+  different character goes separate defined separately.
+                    
+___________________________________________
+isa = extends
+
+ship (x,y) ==(x,y)
+	move(x,y{
+	lasser.move (x,y);
+	}
+ship and laser share coordinates
+
+

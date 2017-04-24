@@ -1,0 +1,504 @@
+Ship at (200, 155)
+  Vals = 200 155 50 40
+  Bounds = java.awt.Rectangle[x=200,y=155,width=50,height=40]
+  Intersects ship? true
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Laser at (224, 140)
+  Vals = 224 140 2 15
+  Bounds = java.awt.Rectangle[x=224,y=140,width=2,height=15]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, -5)
+  Vals = -10 -5 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=-5,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 20)
+  Vals = 15 20 5 20
+  Bounds = java.awt.Rectangle[x=15,y=20,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 25)
+  Vals = -10 25 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=25,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 50)
+  Vals = 15 50 5 20
+  Bounds = java.awt.Rectangle[x=15,y=50,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 55)
+  Vals = -10 55 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=55,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 80)
+  Vals = 15 80 5 20
+  Bounds = java.awt.Rectangle[x=15,y=80,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 85)
+  Vals = -10 85 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=85,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 110)
+  Vals = 15 110 5 20
+  Bounds = java.awt.Rectangle[x=15,y=110,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 115)
+  Vals = -10 115 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=115,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 140)
+  Vals = 15 140 5 20
+  Bounds = java.awt.Rectangle[x=15,y=140,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 145)
+  Vals = -10 145 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=145,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 170)
+  Vals = 15 170 5 20
+  Bounds = java.awt.Rectangle[x=15,y=170,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (-10, 175)
+  Vals = -10 175 55 25
+  Bounds = java.awt.Rectangle[x=-10,y=175,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (15, 200)
+  Vals = 15 200 5 20
+  Bounds = java.awt.Rectangle[x=15,y=200,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, -5)
+  Vals = 55 -5 55 25
+  Bounds = java.awt.Rectangle[x=55,y=-5,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 20)
+  Vals = 80 20 5 20
+  Bounds = java.awt.Rectangle[x=80,y=20,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 25)
+  Vals = 55 25 55 25
+  Bounds = java.awt.Rectangle[x=55,y=25,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 50)
+  Vals = 80 50 5 20
+  Bounds = java.awt.Rectangle[x=80,y=50,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 55)
+  Vals = 55 55 55 25
+  Bounds = java.awt.Rectangle[x=55,y=55,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 80)
+  Vals = 80 80 5 20
+  Bounds = java.awt.Rectangle[x=80,y=80,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 85)
+  Vals = 55 85 55 25
+  Bounds = java.awt.Rectangle[x=55,y=85,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 110)
+  Vals = 80 110 5 20
+  Bounds = java.awt.Rectangle[x=80,y=110,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 115)
+  Vals = 55 115 55 25
+  Bounds = java.awt.Rectangle[x=55,y=115,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 140)
+  Vals = 80 140 5 20
+  Bounds = java.awt.Rectangle[x=80,y=140,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 145)
+  Vals = 55 145 55 25
+  Bounds = java.awt.Rectangle[x=55,y=145,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 170)
+  Vals = 80 170 5 20
+  Bounds = java.awt.Rectangle[x=80,y=170,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (55, 175)
+  Vals = 55 175 55 25
+  Bounds = java.awt.Rectangle[x=55,y=175,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (80, 200)
+  Vals = 80 200 5 20
+  Bounds = java.awt.Rectangle[x=80,y=200,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, -5)
+  Vals = 120 -5 55 25
+  Bounds = java.awt.Rectangle[x=120,y=-5,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 20)
+  Vals = 145 20 5 20
+  Bounds = java.awt.Rectangle[x=145,y=20,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 25)
+  Vals = 120 25 55 25
+  Bounds = java.awt.Rectangle[x=120,y=25,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 50)
+  Vals = 145 50 5 20
+  Bounds = java.awt.Rectangle[x=145,y=50,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 55)
+  Vals = 120 55 55 25
+  Bounds = java.awt.Rectangle[x=120,y=55,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 80)
+  Vals = 145 80 5 20
+  Bounds = java.awt.Rectangle[x=145,y=80,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 85)
+  Vals = 120 85 55 25
+  Bounds = java.awt.Rectangle[x=120,y=85,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 110)
+  Vals = 145 110 5 20
+  Bounds = java.awt.Rectangle[x=145,y=110,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 115)
+  Vals = 120 115 55 25
+  Bounds = java.awt.Rectangle[x=120,y=115,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 140)
+  Vals = 145 140 5 20
+  Bounds = java.awt.Rectangle[x=145,y=140,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 145)
+  Vals = 120 145 55 25
+  Bounds = java.awt.Rectangle[x=120,y=145,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 170)
+  Vals = 145 170 5 20
+  Bounds = java.awt.Rectangle[x=145,y=170,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (120, 175)
+  Vals = 120 175 55 25
+  Bounds = java.awt.Rectangle[x=120,y=175,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (145, 200)
+  Vals = 145 200 5 20
+  Bounds = java.awt.Rectangle[x=145,y=200,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, -5)
+  Vals = 185 -5 55 25
+  Bounds = java.awt.Rectangle[x=185,y=-5,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 20)
+  Vals = 210 20 5 20
+  Bounds = java.awt.Rectangle[x=210,y=20,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 25)
+  Vals = 185 25 55 25
+  Bounds = java.awt.Rectangle[x=185,y=25,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 50)
+  Vals = 210 50 5 20
+  Bounds = java.awt.Rectangle[x=210,y=50,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 55)
+  Vals = 185 55 55 25
+  Bounds = java.awt.Rectangle[x=185,y=55,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 80)
+  Vals = 210 80 5 20
+  Bounds = java.awt.Rectangle[x=210,y=80,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 85)
+  Vals = 185 85 55 25
+  Bounds = java.awt.Rectangle[x=185,y=85,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 110)
+  Vals = 210 110 5 20
+  Bounds = java.awt.Rectangle[x=210,y=110,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 115)
+  Vals = 185 115 55 25
+  Bounds = java.awt.Rectangle[x=185,y=115,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 140)
+  Vals = 210 140 5 20
+  Bounds = java.awt.Rectangle[x=210,y=140,width=5,height=20]
+  Intersects ship? true
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 145)
+  Vals = 185 145 55 25
+  Bounds = java.awt.Rectangle[x=185,y=145,width=55,height=25]
+  Intersects ship? true
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 170)
+  Vals = 210 170 5 20
+  Bounds = java.awt.Rectangle[x=210,y=170,width=5,height=20]
+  Intersects ship? true
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (185, 175)
+  Vals = 185 175 55 25
+  Bounds = java.awt.Rectangle[x=185,y=175,width=55,height=25]
+  Intersects ship? true
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? true
+Missile at (210, 200)
+  Vals = 210 200 5 20
+  Bounds = java.awt.Rectangle[x=210,y=200,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, -5)
+  Vals = 250 -5 55 25
+  Bounds = java.awt.Rectangle[x=250,y=-5,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 20)
+  Vals = 275 20 5 20
+  Bounds = java.awt.Rectangle[x=275,y=20,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 25)
+  Vals = 250 25 55 25
+  Bounds = java.awt.Rectangle[x=250,y=25,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 50)
+  Vals = 275 50 5 20
+  Bounds = java.awt.Rectangle[x=275,y=50,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 55)
+  Vals = 250 55 55 25
+  Bounds = java.awt.Rectangle[x=250,y=55,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 80)
+  Vals = 275 80 5 20
+  Bounds = java.awt.Rectangle[x=275,y=80,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 85)
+  Vals = 250 85 55 25
+  Bounds = java.awt.Rectangle[x=250,y=85,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 110)
+  Vals = 275 110 5 20
+  Bounds = java.awt.Rectangle[x=275,y=110,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 115)
+  Vals = 250 115 55 25
+  Bounds = java.awt.Rectangle[x=250,y=115,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 140)
+  Vals = 275 140 5 20
+  Bounds = java.awt.Rectangle[x=275,y=140,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 145)
+  Vals = 250 145 55 25
+  Bounds = java.awt.Rectangle[x=250,y=145,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 170)
+  Vals = 275 170 5 20
+  Bounds = java.awt.Rectangle[x=275,y=170,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? false
+  Is GameObject? true
+  Is Shooter? false
+Alien at (250, 175)
+  Vals = 250 175 55 25
+  Bounds = java.awt.Rectangle[x=250,y=175,width=55,height=25]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? true
+Missile at (275, 200)
+  Vals = 275 200 5 20
+  Bounds = java.awt.Rectangle[x=275,y=200,width=5,height=20]
+  Intersects ship? false
+  Out of bounds? true
+  Is GameObject? true
+  Is Shooter? false
